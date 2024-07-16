@@ -1,0 +1,38 @@
+img{
+	width: 70%;
+	border-radius: 15px;
+	margin: auto;
+  display: block;
+}
+
+body{
+  background-color: #93A392;
+   font-family: "Lora", serif;
+   font-size: larger;
+}
+
+h1 {
+	color: #E36414;
+	 text-decoration: underline;
+	  text-align: center;
+	  font-size: xxx-large;
+}
+
+h2{
+	color: #273E47;
+	 text-decoration: underline;
+	  text-align: center;
+	  font-size: xx-large;
+
+}
+p{
+	color: #E6EED6;
+	
+}
+
+a:link{
+	color: #4056F4;
+}
+a:visited{
+	color:#F3C178;
+}
